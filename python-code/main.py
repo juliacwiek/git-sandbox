@@ -1,9 +1,7 @@
 def main():
-    print("git-sandbox")
-    # ---  ADD CODE HERE ---
-    print("test")
-    print("someone edited dis")
-  
+    print("Test code")
+    # --- ADD CODE HERE --- 
 
+    
 if __name__ == "__main__":
     main()
