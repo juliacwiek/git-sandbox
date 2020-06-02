@@ -6,6 +6,7 @@ def main():
     	return True
     if iscool(x):
     	print(":)")
+    print("poopoo")
 
     
 if __name__ == "__main__":
